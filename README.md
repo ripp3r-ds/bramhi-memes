@@ -46,7 +46,7 @@ Now that you have your raw image URL, you can submit all the details to the bot'
 
 Fill out the form with the dialogue, context, and the URL you just copied. The more descriptive you are about the context, the smarter the bot will become at using your meme correctly!
 
-## 👉 [Submit Your Meme Details Here]([https://docs.google.com/forms/d/e/1FAIpQLScoG5cWFD3mOAtwulr-jOCElXD8xKiTCzLuguB7zARdCM4_SA/viewform?usp=sharing&ouid=103555496030742648241])
+## 👉 [Submit Your Meme Details Here](https://docs.google.com/forms/d/e/1FAIpQLScoG5cWFD3mOAtwulr-jOCElXD8xKiTCzLuguB7zARdCM4_SA/viewform?usp=sharing&ouid=103555496030742648241)
 
 ---
 
