@@ -1,4 +1,4 @@
-# 📸 Brahmi Memes - The Official Image Library for @[Brahmify_bot]
+# 📸 Brahmi Memes - The Official Image Library for @Brahmify_bot
 
 Welcome! This repository is the official image and GIF library for the **[@Brahmify_bot](https://twitter.com/Brahmify_bot)** Twitter bot—your go-to source for the perfect Brahmanandam garu reaction on Telugu Twitter.
 
